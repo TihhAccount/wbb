@@ -1,4 +1,4 @@
-# wbb
+# **WWB**
 ## Wordle, but bad. Simply that.
 
 This is my first real project. Written in C++, no external libraries. Name sums it up well: Wordle, but bad.
